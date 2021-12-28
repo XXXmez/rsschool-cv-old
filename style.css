@@ -1,6 +1,6 @@
 @font-face {
   font-family: StockardRegular;
-  src: url(/StockardRegular.ttf);
+  src: url(StockardRegular.ttf);
 }
 * {
   padding: 0;
@@ -129,7 +129,7 @@ body {
   content: url('');
   display: block;
   margin-right: 10px;
-  background-image: url(/tag.svg);
+  background-image: url(tag.svg);
   background-size: contain;
   width: 20px;
   height: 20px;
@@ -186,7 +186,7 @@ h1.section-title:after {
 }
 .footer-git:before {
   content: '';
-  background-image: url(/github.svg);
+  background-image: url(github.svg);
   width: 20px;
   height: 20px;
   display: block;
